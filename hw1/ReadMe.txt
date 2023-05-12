@@ -1,0 +1,1 @@
+It can also be run by typing "make" in the terminal in the Linux environment, but I used a nested virtual machine. I installed and ran the machine each time.
